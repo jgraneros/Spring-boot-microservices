@@ -15,5 +15,5 @@ Microservices lab
 | POST          | /departments/        |  saveDepartment        | {"departmentName": "DEPARTMENT NAME","departmentAddress": "ADDRESS","departmentCode": "CODE"}|
 | GET           | /departments/id      |  findByDepartmentId | -                                                                                                     |
 
-
+## Architecture
 ![alt text](spring-cloud.drawio.png)
