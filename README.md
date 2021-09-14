@@ -16,4 +16,4 @@ Microservices lab
 | GET           | /departments/id      |  findByDepartmentId | -                                                                                                     |
 
 
-![alt text]('spring cloud.drawio.png')
+![alt text](spring-cloud.drawio.png)
